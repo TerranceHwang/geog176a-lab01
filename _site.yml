@@ -5,10 +5,10 @@ navbar:
   left:
     - text: "Home"
       icon: fa-angle-double-left
-      href: /index.html
+      href: index.html
     - text: "Projects"
       icon: fa-github-square
-      href: /geog176A.html
+      href: geog176A.html
 output:
   html_document:
     theme: darkly
