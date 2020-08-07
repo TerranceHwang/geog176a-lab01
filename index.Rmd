@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+  
+<center>
+# Hello, I'm Terrance Hwang.
+![](img/IMG_1258.png){width="30%"}
+</center>
+
+  
+**I am a Geography undergraduate studying at UCSB. I live in San Jose, CA. I like to play video games and chess, and have an interest in urban studies and transportation systems. I can also speak fluently in Mandarin Chinese. I plan on becoming an urban planner after university and I aim to learn how to program in R for my Geography 176A class.**

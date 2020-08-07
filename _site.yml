@@ -1,0 +1,14 @@
+name: "first-website"
+output_dir: "."
+navbar:
+  title: "My First Website"
+  left:
+    - text: "Home"
+      icon: fa-angle-double-left
+      href: /index.html
+    - text: "Projects"
+      icon: fa-github-square
+      href: /geog176A.html
+output:
+  html_document:
+    theme: darkly

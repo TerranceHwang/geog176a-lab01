@@ -1,0 +1,12 @@
+---
+title: "Projects"
+---
+
+This is a collection of links that lead to projects that I have made for my Geography 176A class, a class GIS course based in the R coding language, for the Summer 2020 quarter. 
+
+## [Building a project website]()
+
+-- In this assignment, we learned how to create a static users site with GitHub pages. 
+-- We learned how to add information into markdown files, including images, text, and headers.
+-- We learned how to customize our site with Bootstrap themes and other features. 
+-- We learned how to add icons to navbar links.
